@@ -10,6 +10,6 @@ The GDSC team of a University or college can organize various Workshops, Hackath
 1. This is a markdown file having a table. You have to add the asked information in the table. Create your own column in the Table.
 1. Then you have to click on ```Propose changes```.
 1. After this you have to create a Pull Request. Click on ```create pull request```.
-1. Now add an appropriate title and description to your Pull Request. In this case let the add description of PR(pull request) as *_Added asked info_*.
+1. Now add an appropriate title and description to your Pull Request. In this case let the add description of PR(pull request) as * _Added asked info_ *.
 1. After Reviewing your PR, it will be merged accordingly.
 
