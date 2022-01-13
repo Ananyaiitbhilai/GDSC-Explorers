@@ -6,3 +6,7 @@
 | Ananya | CSE | 2020 | Flutter | Collaborative Projects |
 | Chaitanya | CSE | 2020 | Web Development | Innovative Projects |
 | Gangesh | ME | 2021 | android studio and web dev | Hands-on workshops | 
+| Arnav G | CSE | 2021 | Python and Web Development | App Making
+| Sakshi | EE | 2020 | Web Development | Hands-on workshops |
+| Shaleen | DSAI | 2020 | Web parsing, Hadoop | Innovative Projects |
+| Satvik | CSE | 2020 | Python and Flutter | Live coding challenges |
