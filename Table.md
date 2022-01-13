@@ -6,3 +6,6 @@
 | Ananya | CSE | 2020 | Flutter | Collaborative Projects |
 | Chaitanya | CSE | 2020 | Web Development | Innovative Projects |
 | Sakshi | EE | 2020 | Web Development | Hands-on workshops |
+| Shaleen | DSAI | 2020 | Web parsing, Hadoop | Innovative Projects |
+| Satvik | CSE | 2020 | Python and Flutter | Live coding challenges |
+
