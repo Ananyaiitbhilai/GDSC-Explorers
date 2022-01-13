@@ -5,4 +5,4 @@
 | Shweta | DSAI | 2020 | Keras, Tensorflow and Spark | Hands-on workshops |
 | Ananya | CSE | 2020 | Flutter | Collaborative Projects |
 | Chaitanya | CSE | 2020 | Web Development | Innovative Projects |
-| Satvik | CSE | 2020 | Python and Flutter | Live coding challenges |
+| Shaleen | DSAI | 2020 | Web parsing, Hadoop | Innovative Projects |
